@@ -1,2 +1,2 @@
 # Crypto
-Author 	Paladium
+Author Picture 	Paladium
